@@ -9,5 +9,7 @@ Camera mount 2-axis angle
 ## setup  
 https://www.waveshare.com/wiki/Servo_Driver_HAT  
   
+install opencv  
+  
 ## python  
 python3 tracking_camera.py
